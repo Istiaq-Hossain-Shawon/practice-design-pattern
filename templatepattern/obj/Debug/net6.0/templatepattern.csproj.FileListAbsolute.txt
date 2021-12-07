@@ -1,0 +1,15 @@
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.csproj.AssemblyReference.cache
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.AssemblyInfoInputs.cache
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.AssemblyInfo.cs
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\templatepattern.exe
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\templatepattern.deps.json
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\templatepattern.runtimeconfig.json
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\templatepattern.dll
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\ref\templatepattern.dll
+E:\dotnetcore\practice\templatepattern\bin\Debug\net6.0\templatepattern.pdb
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.dll
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\ref\templatepattern.dll
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.pdb
+E:\dotnetcore\practice\templatepattern\obj\Debug\net6.0\templatepattern.genruntimeconfig.cache
