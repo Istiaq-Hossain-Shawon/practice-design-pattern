@@ -1,0 +1,15 @@
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\factorypattern.exe
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\factorypattern.deps.json
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\factorypattern.runtimeconfig.json
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\factorypattern.dll
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\ref\factorypattern.dll
+E:\dotnetcore\practice\factorypattern\bin\Debug\net6.0\factorypattern.pdb
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.csproj.AssemblyReference.cache
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.AssemblyInfoInputs.cache
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.AssemblyInfo.cs
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.csproj.CoreCompileInputs.cache
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.dll
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\ref\factorypattern.dll
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.pdb
+E:\dotnetcore\practice\factorypattern\obj\Debug\net6.0\factorypattern.genruntimeconfig.cache
