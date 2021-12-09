@@ -1,0 +1,16 @@
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\delegates.exe
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\delegates.deps.json
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\delegates.runtimeconfig.json
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\delegates.dll
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\ref\delegates.dll
+F:\dotnet\design-pattern\practice-design-pattern\delegates\bin\Debug\net6.0\delegates.pdb
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.GlobalUsings.g.cs
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.csproj.AssemblyReference.cache
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.AssemblyInfoInputs.cache
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.AssemblyInfo.cs
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.csproj.CoreCompileInputs.cache
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.dll
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\ref\delegates.dll
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.pdb
+F:\dotnet\design-pattern\practice-design-pattern\delegates\obj\Debug\net6.0\delegates.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.GlobalUsings.g.cs
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.csproj.AssemblyReference.cache
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.AssemblyInfoInputs.cache
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.AssemblyInfo.cs
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.csproj.CoreCompileInputs.cache
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\observale-pattern.exe
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\observale-pattern.deps.json
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\observale-pattern.runtimeconfig.json
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\observale-pattern.dll
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\ref\observale-pattern.dll
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\bin\Debug\net6.0\observale-pattern.pdb
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.dll
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\ref\observale-pattern.dll
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.pdb
+F:\dotnet\design-pattern\practice-design-pattern\observale-pattern\obj\Debug\net6.0\observale-pattern.genruntimeconfig.cache
